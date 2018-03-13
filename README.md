@@ -1,6 +1,6 @@
 # egg-project-server
 
-服务端，提供接口数据
+服务端采用eggjs框架，提供接口数据
 
 ## QuickStart
 
